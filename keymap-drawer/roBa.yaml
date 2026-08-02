@@ -140,6 +140,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - UP ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -152,7 +153,6 @@ layers:
   - HOME
   - LEFT ARROW
   - DOWN ARROW
-  - UP ARROW
   - RIGHT ARROW
   - END
   - {t: ▽, type: trans}
